@@ -11,4 +11,7 @@ libtool
 ta-lib-config
 ta-lib.dpkg
 ta-lib.spec
+bin
+src/tools/gen_code/gen_code
+src/tools/ta_regtest/ta_regtest
 
