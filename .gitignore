@@ -1,0 +1,14 @@
+*.o
+*.lo
+*.la
+.deps/
+.libs/
+config.log
+config.status
+include/stamp-h1
+include/ta_config.h
+libtool
+ta-lib-config
+ta-lib.dpkg
+ta-lib.spec
+
